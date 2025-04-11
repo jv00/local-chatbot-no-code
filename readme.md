@@ -1,4 +1,5 @@
 # Local RAG Stack with Ollama, Deepseek, Qdrant & OpenWebUI
+![chatbot](https://github.com/user-attachments/assets/a9aa4653-0e76-4298-8a77-ada0c28f24e1)
 
 I initially wrote a prototype of a RAG app using Python and Streamlit. While it worked for local MVP use, adding all the features I wanted would have taken too much time and effort.
 
